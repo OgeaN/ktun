@@ -1,0 +1,7 @@
+Antalya/07 -> Mersin/33
+Konya/42 -> Antalya/07 -> Istanbul/34
+Istanbul/34 -> Konya/42 -> Kayseri/38 -> Ordu/52
+Ordu/52 -> Istanbul/34
+Kayseri/38 -> Adiyaman/02
+Adiyaman/02 -> Istanbul/34 -> Kayseri/38
+Mersin/33 -> Istanbul/34
