@@ -1,0 +1,1 @@
+metin benzerliğini bulmak için kendi kullandıgım yöntem aynı indexde aynı harf mi var kontrolü sağlamak.Ardından değişkenimi bir arttırmak döngü sonunda ise arttırdığım değişkeni metin boyutuna bölerek benzerlik oranını bulmak.
